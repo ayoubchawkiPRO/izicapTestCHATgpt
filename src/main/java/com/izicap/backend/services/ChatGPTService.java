@@ -23,7 +23,7 @@ public class ChatGPTService {
                 .post(body)
                 //Ajout des en-têtes pour spécifier le type de contenu et l'autorisation
                 .addHeader("Content-Type", "application/json")
-                .addHeader("Authorization", "Bearer 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")
+                .addHeader("Authorization", "Bearer sk-DP********************************")
                 .build();
 
         // Exécution de la demande et récupération de la réponse
